@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "slot_a": {
+    "url": "https://github.com/krishna-177/ota/releases/download/v2/Slot_Section.bin",
+    "sha256": "aa6d930da4e1439d1ee40c41b4021598cf9cfd99b602cec5cf02b3deeb20a96b",
+    "size": 9608
+  }
