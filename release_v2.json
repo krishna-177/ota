@@ -2,12 +2,12 @@
   "version": 2,
   "slot_a": {
     "url": "https://raw.githubusercontent.com/krishna-177/ota/main/Slot_A.bin",
-    "sha256": "SHA256_OF_SLOT_A",
+    "sha256": "aa6d930da4e1439d1ee40c41b4021598cf9cfd99b602cec5cf02b3deeb20a96b",
     "size": 9608
   },
   "slot_b": {
     "url": "https://raw.githubusercontent.com/krishna-177/ota/main/Slot_B.bin",
-    "sha256": "SHA256_OF_SLOT_B",
+    "sha256": "6b218160a9329285f13e205e566c3a4832742ef2adeb3022dea32536cdd486f6",
     "size": 9608
   }
 }
